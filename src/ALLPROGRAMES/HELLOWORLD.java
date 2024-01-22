@@ -1,10 +1,25 @@
 package ALLPROGRAMES;
 
 public class HELLOWORLD {
+	
+	
+	
+	int a=10;
+	
+	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
   System.out.println("hello world");
+  
+  HELLOWORLD obj=new HELLOWORLD();
+  
+  
+  System.out.println(obj.a);
+  
+  
+  
+  
 	}
 
 }

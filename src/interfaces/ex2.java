@@ -22,9 +22,5 @@ public class ex2 implements inter{
 		inter.hello();
 		ex2 obj=new ex2();
 		obj.show();
-		
-		
-
-	}
-
-}
+		}
+    }

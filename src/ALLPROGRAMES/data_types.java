@@ -43,24 +43,7 @@ public class data_types {
 	   System.out.println(l[2]);
 	   System.out.println(l[3]);
 	   System.out.println(l[4]);
-	    
-	   
-	   
-	    
-	   
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	
-		
-		
-	
-	
+
 }
 
 }

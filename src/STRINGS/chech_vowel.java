@@ -3,7 +3,7 @@ package STRINGS;
 public class chech_vowel {
 
 	public static void main(String[] args) {
-char a='z';
+char a='a';
 		
 		if(a=='A'||a=='E'||a=='I'||a=='O'||a=='U'||a=='a'||a=='e'||a=='i'||a=='o'||a=='u')
 		{

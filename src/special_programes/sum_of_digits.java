@@ -5,10 +5,10 @@ import java.util.Scanner;
 public class sum_of_digits {
 
 	public static void main(String[] args) {
-		int n,r,sum=0;
-		Scanner sc=new Scanner(System.in);
-		System.out.println("enter the number");
-		n=sc.nextInt();
+		int n=123,r,sum=0;
+//		Scanner sc=new Scanner(System.in);
+//		System.out.println("enter the number");
+//		n=sc.nextInt();
 		while(n>0)
 		{
 			r=n%10;

@@ -5,7 +5,8 @@ import java.util.Scanner;
 public class min_max {
 
 	public static void main(String[] args) {
-int i, n, min=0, max=0;
+     
+		int i, n, min=0, max=0;
 		
 		Scanner sc= new Scanner(System.in);
 		
